@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Shipment xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>33886164</Id>
+  <Number>0123456789</Number>
+  <ActorCsid>112</ActorCsid>
+  <ActorName>INTERNET SVERIGE</ActorName>
+  <InstallationId>11018000023</InstallationId>
+  <InstallationName>MyInstallation</InstallationName>
+  <PhysicalInstallationId>11018000023</PhysicalInstallationId>
+  <OrderNumber>03682461</OrderNumber>
+  <CarrierName>MyCarrier</CarrierName>
+  <ProductName>514 Karlstad</ProductName>
+  <Addresses>
+    <Address>
+      <Id>123930642</Id>
+      <Kind>Receiver</Kind>
+      <Name1>Liviu</Name1>
+      <Street1>mystreet</Street1>
+      <PostCode>00000</PostCode>
+      <City>Receiver City</City>
+      <Mobile>099 999 99 99</Mobile>
+      <Email>xxxx@yyyy.com</Email>
+      <CountryCode>SE</CountryCode>
+      <CountryClientId>189</CountryClientId>
+      <CountryName>Sweden</CountryName>
+    </Address>
+    <Address>
+      <Id>123930643</Id>
+      <Kind>Sender</Kind>
+      <Name1>company</Name1>
+      <Street1>other street</Street1>
+      <PostCode>00000</PostCode>
+      <City>Oslo</City>
+      <CountryCode>SE</CountryCode>
+      <CountryClientId>189</CountryClientId>
+      <CountryName>Sweden</CountryName>
+    </Address>
+  </Addresses>
+</Shipment>
